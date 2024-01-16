@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning GitHub and DBT
 - 💞️ I’m looking to collaborate on Analytics
 - 📫 How to reach me rbr@cadran.nl
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Tableau JD Edwards
+- ⚡ Fun fact: I play bass
 
 <!---
 RickBrobbel/RickBrobbel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
